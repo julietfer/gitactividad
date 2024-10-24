@@ -1,2 +1,3 @@
 actividad gui7 herramientas de versionamiento git
 nombre de usuario julietfer email julie.navarrete@soy.sena.edu.co
+para despedir el video con esta linea
